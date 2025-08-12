@@ -32,4 +32,3 @@
 - Flutter Codelabs 🧪 - Hands-on coding tutorials to build Flutter apps.
 
 </p>
-<center><div><b>We hope this project serves as a wonderful starting point for your spiritual application journey! 🙏</b></div></center>

@@ -25,10 +25,10 @@
 <h2>📚 Useful Resources</h2>
 <p>New to Flutter or looking to dive deeper? Here are some invaluable resources from the official Flutter documentation:
 
-- Flutter Documentation 📖 - Your go-to guide for everything Flutter.
+- <a href="https://flutter.dev/docs"><strong>Flutter Documentation</strong></a> 📖 - Your go-to guide for everything Flutter.
 
-- Flutter Cookbook 🧑‍🍳 - Practical Flutter recipes to help you solve common development tasks.
+- <a href="https://docs.flutter.dev/cookbook"><strong>Flutter Cookbook</strong></a> 🧑‍🍳 - Practical Flutter recipes to help you solve common development tasks.
   
-- Flutter Codelabs 🧪 - Hands-on coding tutorials to build Flutter apps.
+- <a href="https://docs.flutter.dev/codelabs"><strong>Flutter Codelabs</strong></a> 🧪 - Hands-on coding tutorials to build Flutter apps.
 
 </p>
